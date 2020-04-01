@@ -9,6 +9,6 @@ So enjoy this while April moves along.
 
 
 ## LICENSE
-I am not licensing this thing under anything and I am also not claiming any copyright
+I am not licensing this thing under anything and I am also not claiming any copyright.
 Well okay, that'll be the license:
-Free to reuse in any way however you please under any license you wish.
+Free to do anything in any way however you please under any license you wish.
