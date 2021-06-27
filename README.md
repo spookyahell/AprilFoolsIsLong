@@ -10,5 +10,6 @@ So enjoy this while April moves along.
 
 ## LICENSE
 I am not licensing this thing under anything and I am also not claiming any copyright.
-Well okay, that'll be the license:
-Free to do anything in any way however you please under any license you wish.
+<br>Well okay, that's sh*t. The following line shall constitute as the license/distribution note:
+
+Any body is free to do anything with this README in any way aka however they please and under any license you wish.
